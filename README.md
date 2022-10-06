@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Data Analysis, ML**
 
-- 📫 How to reach me **amtulifra12@gmail.com**
+- 📫  **amtulifra12@gmail.com**
 
 - ⚡ Fun fact **I am a coffee addict☕**
 
