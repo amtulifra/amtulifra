@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Backend Web Development**
 
-- 🤝 I’m looking for help with **Text Paraphrasing Tool**
+- 🤝 I’m looking for help with building a **Text Paraphrasing Tool**
 
 - 💬 Ask me about **Python, Data Analysis, ML**
 
