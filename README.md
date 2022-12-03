@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amtulifra&label=Profile%20views&color=0e75b6&style=flat" alt="amtulifra" /> </p>
 
 
-- 🌱 I'm currently learning **Backend Web Development**
+- 🌱 I'm currently learning **React**
 
 - 🤝 I’m looking for help with building a **Text Paraphrasing Tool**
 
