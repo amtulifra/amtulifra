@@ -1,16 +1,16 @@
-<h1 align="center">Heya!👋, I'm Ifra</h1>
+<h1 align="center">Heya!👋 I'm Ifra</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 
-<img align ="right" alt="ifra"  width= "400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
-
+<!-- <img align ="right" alt="ifra"  width= "400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amtulifra&label=Profile%20views&color=0e75b6&style=flat" alt="amtulifra" /> </p>
 
 
 - 🌱 I'm currently learning **React**
 
-- 🤝 I’m looking for help with building a **Text Paraphrasing Tool**
+<!-- - 🤝 I’m looking for help with building a **Text Paraphrasing Tool** -->
 
-- 💬 Ask me about **Python, Data Analysis, ML**
+<!-- - 💬 Ask me about **Python, Data Analysis, ML** -->
 
 - 📫  **amtulifra12@gmail.com**
 
